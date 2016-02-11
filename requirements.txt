@@ -1,0 +1,5 @@
+pika==0.10.0
+json
+cv2
+numpy
+base64
