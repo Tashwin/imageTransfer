@@ -6,6 +6,7 @@ Project:
     imageTransfer
 
 Description:
+    
     * Encode input images to base64 and publish it using rabbitMQ
     * Subsribe to the published image (RabbitMq), rotate them
     * Upload rotated images to Amazon S3 bucket
