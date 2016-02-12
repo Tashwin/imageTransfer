@@ -1,5 +1,11 @@
 pika==0.10.0
+boto
+os
+hashlib
+collections
+uuid
 json
 cv2
 numpy
 base64
+argparse
